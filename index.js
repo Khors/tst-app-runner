@@ -7,7 +7,9 @@ app.get('/', (req, res) => {
     res.send(`
         <h1>Hello</h1>
         <h2>App Running test s passed</h2>
-        <p>developed by Dmytro Burkovskyi (8.1264, ZNU)<p>
+        <p>developed by Dmytro Burkovskyi (8.1264, ZNU)
+        <p>Thaks a lot for pay attention :-)
+
     `);
 });
 
